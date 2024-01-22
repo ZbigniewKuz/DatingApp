@@ -2,7 +2,6 @@
 <h2>Project of Dating app using following technologies, as learning tool to .NET 7 and Angular</h2>
 <la>
   <li>.NET Core</li>
-  <li>Entity Framework</li>
   <li>Angular</li>
 </la>
 
